@@ -1,0 +1,12 @@
+Program Vidu123456789;
+Var x,y,z;
+Begin
+x := 12637;
+x10 := 19;
+IF  X  > 10   Then 
+    X := 10 * 20 30
+Else
+   X := 20;
+  CALL 100;
+End.
+
